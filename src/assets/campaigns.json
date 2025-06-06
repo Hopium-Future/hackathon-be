@@ -1,0 +1,334 @@
+[
+  {
+    "_id": 1,
+    "title": "Trading War: Volume Battle",
+    "description": "Unlock exclusive rewards. Join, trade and earn in real-time.",
+    "condition": "TOP_VOLUME_TRADE",
+    "logo": "https://cdn.hopium.dev/hopium/images/campaign/1/avatar.png",
+    "background": "https://cdn.hopium.dev/hopium/images/campaign/1/cover.png",
+    "ruleContent": "<div style='color:#9d9d9d;font-size:12px;line-height:16px'><div style='margin-top:32px'><p style='font-weight:700;color:#f6f6f6'>TRADING VOLUME LEADERBOARD<p style='margin-top:8px'>Top 10 traders with the highest volume during the Volume Battle will share <span style='color:#3bd975'>250 $USDT reward</span><ul style='list-style-type:disc;padding-left:16px'><li>1st Place: 80 $USDT<li>2nd Place: 50 $USDT<li>3rd Place: 35 $USDT<li>4th Place: 20 $USDT<li>5th Place: 15 $USDT<li>6th-10th Place: 10 $USDT each</ul></div><p style='margin-top:8px'>Duration: 12/31/24, 8:00 UTC - 1/4/25, 8:00 UTC</div>",
+    "isEnable": true,
+    "limit": 10,
+    "startDate": "2024-12-30 08:00:00",
+    "endDate": "2025-01-04 08:00:00",
+    "totalReward": [
+        {
+            "assetId": 22,
+            "assetQuantity": 250
+        }
+    ],
+    "reward": {
+        "1": [
+            {
+                "assetId": 22,
+                "assetQuantity": 80
+            }
+        ],
+        "2": [
+            {
+                "assetId": 22,
+                "assetQuantity": 50
+            }
+        ],
+        "3": [
+            {
+                "assetId": 22,
+                "assetQuantity": 35
+            }
+        ],
+        "4": [
+            {
+                "assetId": 22,
+                "assetQuantity": 20
+            }
+        ],
+        "5": [
+            {
+                "assetId": 22,
+                "assetQuantity": 15
+            }
+        ],
+        "6": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "7": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "8": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "9": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "10": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ]
+    },
+    "metadata": {
+    }
+  },
+  {
+    "_id": 2,
+    "title": "CLASH OF THE CHARTS",
+    "description": "Unlock exclusive rewards. Join, trade and earn in real-time.",
+    "condition": "TOP_HIGHEST_VOLUME",
+    "logo": "https://cdn.hopium.dev/hopium/images/campaign/2/avatar.png",
+    "background": "https://cdn.hopium.dev/hopium/images/campaign/2/cover.png",
+    "ruleContent": "<div style='color:#9d9d9d;font-size:12px;line-height:16px'><div style='margin-top:32px'><p style='font-weight:700;color:#f6f6f6'>HIGHEST VOLUME LEADERBOARD<p style='margin-top:8px'>It's time to become the TOP TRADER!  Top 10 traders with the HIGHEST VOLUME TRADES will share a juicy <span style='color:#3bd975'>250 $USDT REWARD POOL!</span><p style='margin-top:8px'>Prize Details 🏆<ul style='list-style-type:disc;padding-left:16px'><li>1st Place: 80 $USDT<li>2nd Place: 50 $USDT<li>3rd Place: 35 $USDT<li>4th Place: 20 $USDT<li>5th Place: 15 $USDT<li>6th-10th Place: 10 $USDT each</ul></div><p style='margin-top:8px'>Duration: 1/7/25, 4:00 UTC - 1/20/25, 4:00 UTC</div>",
+    "isEnable": true,
+    "limit": 10,
+    "startDate": "2025-01-07 04:00:00",
+    "endDate": "2025-01-20 04:00:00",
+    "totalReward": [
+        {
+            "assetId": 22,
+            "assetQuantity": 250
+        }
+    ],
+    "reward": {
+        "1": [
+            {
+                "assetId": 22,
+                "assetQuantity": 80
+            }
+        ],
+        "2": [
+            {
+                "assetId": 22,
+                "assetQuantity": 50
+            }
+        ],
+        "3": [
+            {
+                "assetId": 22,
+                "assetQuantity": 35
+            }
+        ],
+        "4": [
+            {
+                "assetId": 22,
+                "assetQuantity": 20
+            }
+        ],
+        "5": [
+            {
+                "assetId": 22,
+                "assetQuantity": 15
+            }
+        ],
+        "6": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "7": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "8": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "9": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "10": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ]
+    },
+    "metadata": {
+    }
+  },
+  {
+    "_id": 3,
+    "title": "PnL Bonanza",
+    "description": "Unlock exclusive rewards. Join, trade and earn in real-time.",
+    "condition": "TOP_PNL",
+    "logo": "https://cdn.hopium.dev/hopium/images/campaign/3/avatar.png",
+    "background": "https://cdn.hopium.dev/hopium/images/campaign/3/cover.png?v2=true",
+    "ruleContent": "<div style='color:#9d9d9d;font-size:12px;line-height:16px'><div style='margin-top:32px'><p style='font-weight:700;color:#f6f6f6'>HIGHEST PNL LEADERBOARD<p style='margin-top:8px'>Top 10 traders with the highest PnL will share <span style='color:#3bd975'>250 $USDT REWARD POOL</span>. Simple as that.<p style='margin-top:8px'>Prize Details 🏆<ul style='list-style-type:disc;padding-left:16px'><li>1st Place: 80 $USDT<li>2nd Place: 50 $USDT<li>3rd Place: 35 $USDT<li>4th Place: 20 $USDT<li>5th Place: 15 $USDT<li>6th-10th Place: 10 $USDT each</ul></div><p style='margin-top:8px'>Duration: 1/21/2025, 5:00 UTC - 2/3/2025, 5:00 UTC</div>",
+    "isEnable": true,
+    "limit": 10,
+    "startDate": "2025-01-21 05:00:00",
+    "endDate": "2025-02-03 05:00:00",
+    "totalReward": [
+        {
+            "assetId": 22,
+            "assetQuantity": 250
+        }
+    ],
+    "reward": {
+        "1": [
+            {
+                "assetId": 22,
+                "assetQuantity": 80
+            }
+        ],
+        "2": [
+            {
+                "assetId": 22,
+                "assetQuantity": 50
+            }
+        ],
+        "3": [
+            {
+                "assetId": 22,
+                "assetQuantity": 35
+            }
+        ],
+        "4": [
+            {
+                "assetId": 22,
+                "assetQuantity": 20
+            }
+        ],
+        "5": [
+            {
+                "assetId": 22,
+                "assetQuantity": 15
+            }
+        ],
+        "6": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "7": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "8": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "9": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ],
+        "10": [
+            {
+                "assetId": 22,
+                "assetQuantity": 10
+            }
+        ]
+    },
+    "metadata": {
+    }
+  },
+  {
+    "_id": 4,
+    "title": "Volume Madness",
+    "description": "Unlock exclusive rewards. Join, trade and earn in real-time.",
+    "condition": "TOP_VOLUME_TRADE",
+    "logo": "https://cdn.hopium.dev/hopium/images/campaign/4/avatar.png",
+    "background": "https://cdn.hopium.dev/hopium/images/campaign/4/cover.png",
+    "ruleContent": "<div style='color:#9d9d9d;font-size:12px;line-height:16px'><div style='margin-top:32px'><p style='margin-top:8px'>Top 10 traders with the highest trading volume will share <span style='color:#3bd975'>2000 $USDT reward</span><p style='margin-top:8px'>Prize Details 🏆<ul style='list-style-type:disc;padding-left:16px'><li>1st Place: 1000 $USDT<li>2nd Place: 500 $USDT<li>3rd Place: 200 $USDT<li>4th Place: 100 $USDT<li>5th Place: 50 $USDT<li>6th-10th Place: 30 $USDT each</ul></div><p style='margin-top:8px'>Duration: Mar 07, 2025, 00:00 UTC - Mar 14, 2025, 00:00 UTC</div>",
+    "isEnable": true,
+    "limit": 10,
+    "startDate": "2025-03-07 00:00:00",
+    "endDate": "2025-03-14 00:00:00",
+    "totalReward": [
+        {
+            "assetId": 22,
+            "assetQuantity": 2000
+        }
+    ],
+    "reward": {
+        "1": [
+            {
+                "assetId": 22,
+                "assetQuantity": 1000
+            }
+        ],
+        "2": [
+            {
+                "assetId": 22,
+                "assetQuantity": 500
+            }
+        ],
+        "3": [
+            {
+                "assetId": 22,
+                "assetQuantity": 200
+            }
+        ],
+        "4": [
+            {
+                "assetId": 22,
+                "assetQuantity": 100
+            }
+        ],
+        "5": [
+            {
+                "assetId": 22,
+                "assetQuantity": 50
+            }
+        ],
+        "6": [
+            {
+                "assetId": 22,
+                "assetQuantity": 30
+            }
+        ],
+        "7": [
+            {
+                "assetId": 22,
+                "assetQuantity": 30
+            }
+        ],
+        "8": [
+            {
+                "assetId": 22,
+                "assetQuantity": 30
+            }
+        ],
+        "9": [
+            {
+                "assetId": 22,
+                "assetQuantity": 30
+            }
+        ],
+        "10": [
+            {
+                "assetId": 22,
+                "assetQuantity": 30
+            }
+        ]
+    },
+    "metadata": {
+    }
+  }
+]

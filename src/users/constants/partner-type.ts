@@ -1,0 +1,5 @@
+export enum PARTNER_TYPE {
+  NORMAL_USER = 0,
+  PARTNER = 1,
+  AMBASSADOR = 2,
+}
